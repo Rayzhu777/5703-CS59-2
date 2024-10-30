@@ -1,6 +1,6 @@
 # 5703-CS59-2
 
-his project aims to develop a federated 
+This project aims to develop a federated 
 learning model to identify high-risk patients for postoperative gastric cancer
 recurrence. Gastric cancer remains one of the leading causes of cancer-related
 deaths worldwide, and early detection of recurrence is crucial for improving
