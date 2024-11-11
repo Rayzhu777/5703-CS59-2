@@ -1,5 +1,5 @@
 # 5703-CS59-2
-Project title: Federated Learning Model for Multimodal Disease Prediction from IU-CXR Dataset
+Project title: FEDERATED LEARNING MODEL FOR DISEASES PREDICTION ON MULTI-MODAL DATA
 
 Group members: 
 
